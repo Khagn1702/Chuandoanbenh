@@ -1,0 +1,399 @@
+Ten benh: Cam lanh  
+   Thuoc tri: Paracetamol, Vitamin C, Thuoc khang Histamin  
+   Loi khuyen: Nghi ngoi, uong nuoc am, giu am co the.  
+
+Ten benh: Camsot  
+   Thuoc tri: Paracetamol, Ibuprofen, Thuoc ha sot Aspirin  
+   Loi khuyen: Giam sot voi khan am, uong nhieu nuoc, tranh hoat dong nang.  
+
+Ten benh: Viem phe quan  
+   Thuoc tri: Thuoc long dom Acetylcysteine, Thuoc giam ho Dextromethorphan, Thuoc khang sinh Amoxicillin  
+   Loi khuyen: Uong nhieu nuoc am, giu am co the, tranh khoi bui va khoi thuoc la.  
+
+Ten benh: Dau da day  
+   Thuoc tri: Omeprazole, Thuoc trung hoa acid Antacids, Thuoc bao ve niem mac da day Sucralfate  
+   Loi khuyen: An nhieu bua nho, tranh an cay nong, kieng ruou bia.  
+
+Ten benh: Tieu duong  
+   Thuoc tri: Metformin, Insulin, Thuoc kiem soat glucose Glibenclamide  
+   Loi khuyen: An kieng tinh bot va duong, tap the duc dieu do, theo doi duong huyet.  
+
+Ten benh: Viem hong  
+   Thuoc tri: Thuoc ngam hong Strepsils, Paracetamol, Thuoc khang viem Ibuprofen  
+   Loi khuyen: Suc mieng bang nuoc muoi, uong nhieu nuoc am, tranh uong lanh.  
+
+Ten benh: Dau nho mat  
+   Thuoc tri: Thuoc nho mat khang viem Prednisolone, Thuoc chong kich ung Diphenhydramine  
+   Loi khuyen: Nghi ngoi cho mat, tranh xa khoi bui, khong dui mat.  
+
+Ten benh: Suy gan  
+   Thuoc tri: Thuoc ho tro gan Hepatitis B vaccine, Vitamin B complex, Thuoc tang tiet mat Milk Thistle  
+   Loi khuyen: An uong lanh manh, tranh ruou bia, duy tri can nang on dinh.  
+
+Ten benh: Suy than  
+   Thuoc tri: Thuoc loi tieu Furosemide, Thuoc can bang dien giai Oresol, Thuoc chong cao huyet ap Amlodipine  
+   Loi khuyen: Giam an muoi, uong du nuoc, theo doi suc khoe dinh ky.  
+
+Ten benh: Viem phoi  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc giam dom Paracetamol, Thuoc khang viem Prednisolone  
+   Loi khuyen: Nghi ngoi nhieu, uong nhieu nuoc, giu am co the.  
+
+Ten benh: Cao huyet ap  
+   Thuoc tri: Thuoc ha huyet ap Amlodipine, Thuoc loi tieu Furosemide, Thuoc chong dong mach Aspirin  
+   Loi khuyen: Giam an muoi, tap the duc nhe nhang, kiem tra huyet ap thuong xuyen.  
+
+Ten benh: Thap khop  
+   Thuoc tri: Thuoc giam dau Ibuprofen, Thuoc khang viem Diclofenac, Glucosamine, Thuoc bo sung Vitamin D  
+   Loi khuyen: Nghi ngoi, tap vat ly tri lieu, giam can neu can thiet.  
+
+Ten benh: Quai bi  
+   Thuoc tri: Thuoc ha sot Paracetamol, Thuoc giam dau Ibuprofen, Vitamin C, Thuoc khang viem  
+   Loi khuyen: Nghi ngoi, giu ve sinh mieng, uong nhieu nuoc.  
+
+Ten benh: Thieu mau  
+   Thuoc tri: Sat sulfat, Thuoc bo sung Vitamin B12, Thuoc khang viem, Thuoc giam dau Paracetamol  
+   Loi khuyen: An nhieu thuc an giau sat (thit bo, rau xanh), uong sua bo sung canxi.  
+
+Ten benh: Suy tim  
+   Thuoc tri: Thuoc loi tieu Furosemide, Thuoc chong dong Tim, Thuoc tang co tim Digoxin  
+   Loi khuyen: Giam muoi, tranh lam viec qua suc, tap the duc dieu do.  
+
+Ten benh: Tieu chay  
+   Thuoc tri: Oresol, Thuoc giam tieu chay Loperamide, Thuoc khang sinh (neu can) Metronidazole  
+   Loi khuyen: Uong nhieu nuoc loc, an thuc an de tieu hoa, tranh thuc an song.
+
+Ten benh: Dau rang  
+   Thuoc tri: Thuoc giam dau Paracetamol, Thuoc khang sinh Amoxicillin, Thuoc chong viem Ibuprofen, Thuoc bo sung Vitamin C  
+   Loi khuyen: Danh rang dung cach, tranh thuc an qua nong hoac lanh, di kham nha si.  
+
+Ten benh: Suy giap  
+   Thuoc tri: Levothyroxine, Thuoc bo sung hormone tuyen giap, Thuoc giam viem Thyroxine, Thuoc bo sung Vitamin D  
+   Loi khuyen: Theo doi dinh ky nồng độ hormone, an nhieu rau xanh, duy tri can nang.  
+
+Ten benh: Cang thang  
+   Thuoc tri: Thuoc an than Melatonin, Vitamin B complex, Thuoc giam stress, Thuoc an than Diazepam  
+   Loi khuyen: Nghi ngoi, tap hit tho sau, tranh cang thang tam ly.  
+
+Ten benh: Viem bang quang  
+   Thuoc tri: Thuoc khang sinh Ciprofloxacin, Thuoc chong viem Phenazopyridine, Thuoc giam co Oxybutynin, Thuoc giam dau Paracetamol  
+   Loi khuyen: Uong nhieu nuoc, tranh nhiem lanh, giu ve sinh ca nhan.  
+
+Ten benh: Viem ruot thua  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc giam dau Paracetamol, Thuoc chong viem Ibuprofen, Thuoc bo sung Vitamin C  
+   Loi khuyen: An thuc an de tieu hoa, tranh thuc an cay nong, uong nhieu nuoc.  
+
+Ten benh: Viem amidan  
+   Thuoc tri: Thuoc khang sinh Penicillin, Thuoc ngam hong Betamethasone, Paracetamol, Thuoc giam viem Hydrocortisone  
+   Loi khuyen: Nghi ngoi, uong nuoc am, tranh uong lanh, suc mieng bang nuoc muoi.  
+
+Ten benh: Viem gan B  
+   Thuoc tri: Interferon, Thuoc khang virus Lamivudine, Thuoc chong viem Telbivudine, Thuoc giam dau Paracetamol  
+   Loi khuyen: Tranh ruou bia, giu che do an uong lanh manh, theo doi dinh ky.  
+
+Ten benh: Hen suyen  
+   Thuoc tri: Thuoc gian phe quan Salbutamol, Thuoc khang viem Prednisone, Thuoc khang histamin Loratadine, Thuoc bo sung Vitamin C  
+   Loi khuyen: Tranh khoi bui va phan hoa, giu moi truong thoang mat, uong nhieu nuoc.  
+
+Ten benh: Lao phoi  
+   Thuoc tri: Thuoc khang sinh Rifampicin, Thuoc giam dom Paracetamol, Thuoc chong viem Prednisolone, Thuoc bo sung Vitamin C  
+   Loi khuyen: Giu ve sinh moi truong, dinh ky kham phuc hoi suc khoe, uong nhieu nuoc.  
+
+Ten benh: Viem xoang  
+   Thuoc tri: Thuoc thong mui Oxymetazoline, Thuoc giam dau Paracetamol, Thuoc khang sinh Amoxicillin, Thuoc bo sung Vitamin C  
+   Loi khuyen: Giu ve sinh mui, tranh khong khi o nhiem, su dung may tao do am.  
+
+Ten benh: Viem khop dang thap  
+   Thuoc tri: Thuoc giam dau Ibuprofen, Thuoc khang viem Diclofenac, Glucosamine, Thuoc bo sung Vitamin D  
+   Loi khuyen: Tap vat ly tri lieu, giam can, tranh mang vac vat nang.  
+
+Ten benh: Dau lung  
+   Thuoc tri: Thuoc giam dau Paracetamol, Thuoc giu co xuong Glucosamine, Thuoc chong viem Diclofenac, Thuoc bo sung Vitamin D  
+   Loi khuyen: Nghi ngoi, tranh cac dong tac qua manh, tap the duc dieu do.  
+
+Ten benh: Benh gout  
+   Thuoc tri: Allopurinol, Thuoc giam dau Ibuprofen, Thuoc khang viem Colchicine, Thuoc bo sung Vitamin C  
+   Loi khuyen: Tranh thuc an nhieu purine (hai san, thit bo), uong nhieu nuoc, giu can nang on dinh.  
+
+Ten benh: Dau tai  
+   Thuoc tri: Thuoc giam dau tai Paracetamol, Thuoc khang viem Ibuprofen, Thuoc bo sung Vitamin B12, Thuoc chong viem Clindamycin  
+   Loi khuyen: Nghi ngoi, tranh xa am thanh to, di kham bac si neu can.  
+
+Ten benh: Loet da day  
+   Thuoc tri: Omeprazole, Thuoc bao ve da day Esomeprazole, Thuoc giam viem Lansoprazole, Thuoc giam dau Paracetamol  
+   Loi khuyen: An thuc an de tieu hoa, tranh an cay nong, theo doi dinh ky.  
+
+Ten benh: Phong  
+   Thuoc tri: Thuoc khang sinh Penicillin, Thuoc chong viem Celecoxib, Thuoc giam dau Paracetamol, Thuoc bo sung Vitamin C  
+   Loi khuyen: Giu ve sinh ca nhan, tranh tiep xuc voi nguoi mac benh.  
+
+Ten benh: Mat ngu  
+   Thuoc tri: Thuoc an than Melatonin, Vitamin B12, Thuoc giu tinh than Lucetam, Thuoc dieu tri troi bao Lacid  
+   Loi khuyen: Nghi ngoi, tranh stress, giu thoi gian ngu deu dan.  
+
+Ten benh: Dau co vai gay  
+   Thuoc tri: Thuoc giam dau Ibuprofen, Thuoc giu co xuong Glucosamine, Thuoc chong viem Diclofenac, Thuoc bo sung Vitamin D  
+   Loi khuyen: Tap vat ly tri lieu, tranh lam viec qua suc, nghi ngoi du.  
+
+Ten benh: Dau bung kinh  
+   Thuoc tri: Thuoc giam dau Ibuprofen, Thuoc thuoc an than, Thuoc giu co xuong Magnesium, Thuoc bo sung Vitamin B12  
+   Loi khuyen: Nghi ngoi, an thuc an de tieu hoa, tranh cam giac cang thang.  
+
+Ten benh: Rung toc  
+   Thuoc tri: Thuoc bo sung Vitamin B, Thuoc giam stress, Thuoc chong rung toc Minoxidil, Thuoc giam dau Paracetamol  
+   Loi khuyen: An kieng thuc an dau mo, su dung dau goi phu hop, tranh dung thuoc nhuan.  
+
+Ten benh: So gan  
+   Thuoc tri: Thuoc bo sung Vitamin B, Thuoc chong viem gan, Thuoc bo sung Calcium, Thuoc giam dau Paracetamol  
+   Loi khuyen: Tranh ruou bia, giu che do an uong lanh manh, dinh ky kham gan.  
+
+Ten benh: Lao ruot  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc giam ho Dextromethorphan, Thuoc bo sung Vitamin C, Thuoc giam dau Paracetamol  
+   Loi khuyen: Di kham bac si, an thuc an bo sung dinh duong, tranh viem loet ruot.  
+
+Ten benh: Nhiem vi rut rota  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc bo sung dien giai Oresol, Thuoc giam dau Paracetamol, Thuoc chong ho Dextromethorphan  
+   Loi khuyen: Uong nhieu nuoc, an thuc an de tieu hoa, tranh thuc an song.  
+
+Ten benh: Benh sot ret  
+   Thuoc tri: Thuoc ha sot Paracetamol, Thuoc giam dau Ibuprofen, Thuoc chong viem Aspirin, Thuoc bo sung Vitamin C  
+   Loi khuyen: Nghi ngoi, uong nhieu nuoc, tranh tiep xuc voi nguoi mac benh.  
+
+Ten benh: Mat viem giac mac  
+   Thuoc tri: Thuoc nho mat Chlorsig, Thuoc khang viem Hydrocortisone, Thuoc bo sung Vitamin A, Thuoc giam dau Ibuprofen  
+   Loi khuyen: Tranh xa moi truong bui, giu ve sinh mat, dung thuoc theo chi dinh cua bac si.  
+
+Ten benh: Ho hen  
+   Thuoc tri: Thuoc gian phe quan Salbutamol, Thuoc giam ho Dextromethorphan, Thuoc khang viem Prednisolone, Thuoc chong di ung Cetirizine  
+   Loi khuyen: Uong nhieu nuoc, tranh thoi tiet lanh, giu am co the.  
+
+Ten benh: Viem ket mac  
+   Thuoc tri: Thuoc nho mat Clorhexidine, Thuoc khang viem Hydrocortisone, Thuoc chong di ung Loratadine, Thuoc bo sung Vitamin A  
+   Loi khuyen: Tranh tiep xuc voi cac tac nhan gay di ung, giu mat sach, dung thuoc theo chi dinh.  
+
+Ten benh: Viem duong ho hap  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc giam ho Dextromethorphan, Thuoc long dom Acetylcysteine, Thuoc giam dau Paracetamol  
+   Loi khuyen: Nghi ngoi, uong nhieu nuoc am, tranh ra ngoai khi co gio.  
+
+Ten benh: Dau nguc trai  
+   Thuoc tri: Thuoc giam dau Nitroglycerin, Thuoc hieu hoa co tim Atenolol, Thuoc chong dong mach Aspirin, Thuoc giam dau Ibuprofen  
+   Loi khuyen: Nghi ngoi, tranh lo au, kiem tra suc khoe tim mach.  
+
+Ten benh: Viem da dau  
+   Thuoc tri: Thuoc bo sung Vitamin E, Thuoc chong viem Hydrocortisone, Thuoc giam ngua da Betamethasone, Thuoc giam dau Paracetamol  
+   Loi khuyen: Tranh cham tay vao da, su dung kem duong da, kiem tra da lien tuc.  
+
+Ten benh: Thieu mau do loet da day  
+   Thuoc tri: Thuoc bo sung sat Ferrous sulfate, Vitamin B12, Thuoc giam viem Hydrocortisone, Thuoc chong viem Aspirin  
+   Loi khuyen: An thuc an giau sat, tranh dung thuoc la, uong nhieu nuoc.  
+
+Ten benh: Viem tuyen nuoc bot  
+   Thuoc tri: Thuoc chong viem Prednisolone, Thuoc giam dau Ibuprofen, Thuoc bo sung Vitamin D, Thuoc chong di ung Cetirizine  
+   Loi khuyen: Uong nhieu nuoc, tranh an thuc an cay nong, dung thuoc theo chi dinh.  
+
+Ten benh: Benh dau vai tot cap da lat  
+   Thuoc tri: Thuoc giam dau Ibuprofen, Thuoc giu co xuong Glucosamine, Thuoc giam viem Diclofenac, Thuoc bo sung Vitamin D  
+   Loi khuyen: Nghi ngoi, tranh mang vac vat nang, tap vat ly tri lieu.  
+
+Ten benh: Sot cap do gan day  
+   Thuoc tri: Thuoc ha sot Paracetamol, Thuoc giam dau Ibuprofen, Thuoc chong viem Aspirin, Thuoc bo sung Vitamin C  
+   Loi khuyen: Nghi ngoi, uong nhieu nuoc, tranh tiep xuc voi nguoi mac benh.  
+
+Ten benh: Viem nao  
+   Thuoc tri: Thuoc giam dau Paracetamol, Thuoc khang viem Prednisolone, Thuoc chong co cung Phenytoin, Thuoc bo sung Vitamin B12  
+   Loi khuyen: Nghi ngoi, tranh phoi canh, an thuc an bo sung dinh duong.  
+
+Ten benh: Ung thu gan  
+   Thuoc tri: Thuoc chong ung thu Chemotherapy, Thuoc dieu tri hoan toan gan Hepatitis B vaccine, Thuoc giam dau Morphine, Thuoc bo sung Vitamin D  
+   Loi khuyen: Tranh ruou bia, an thuc an lanh manh, dinh ky kiem tra.  
+
+Ten benh: Ung thu phoi  
+   Thuoc tri: Thuoc chong ung thu Chemotherapy, Thuoc giam dau Morphine, Thuoc long dom Acetylcysteine, Thuoc bo sung Vitamin C  
+   Loi khuyen: Nghi ngoi, an thuc an bo sung dinh duong, dinh ky kiem tra phoi.  
+
+Ten benh: Ung thu da day  
+   Thuoc tri: Thuoc chong ung thu Chemotherapy, Thuoc giam dau Morphine, Thuoc chong viem Hydrocortisone, Thuoc bo sung Vitamin C  
+   Loi khuyen: Nghi ngoi, an thuc an de tieu hoa, tranh stress.  
+
+Ten benh: Viem dai trang  
+   Thuoc tri: Thuoc khang sinh Metronidazole, Thuoc giam viem Prednisolone, Thuoc bo sung Probiotic, Thuoc giam dau Paracetamol  
+   Loi khuyen: An thuc an de tieu hoa, uong nhieu nuoc, tranh thuc an song.  
+
+Ten benh: Tieu buon  
+   Thuoc tri: Thuoc chong tieu buon Loperamide, Thuoc bo sung Vitamin B12, Thuoc giam dau Paracetamol, Thuoc bo sung Magnesium  
+   Loi khuyen: Uong nhieu nuoc, tranh an thuc an kieu kho, kiem tra suc khoe dinh ky.  
+
+Ten benh: Suy nhuoc co the  
+   Thuoc tri: Thuoc an than Melatonin, Vitamin B12, Thuoc bo sung dinh duong Omega-3, Thuoc giam dau Ibuprofen  
+   Loi khuyen: An thuc an giau vitamin, tranh stress, tu tap the duc de tang cang thang.  
+
+Ten benh: Benh liem phoi  
+   Thuoc tri: Thuoc khang sinh Rifampicin, Thuoc giam dom Paracetamol, Thuoc giam ho Dextromethorphan, Thuoc bo sung Vitamin C  
+   Loi khuyen: Nghi ngoi, uong nhieu nuoc am, tranh tiep xuc voi nguoi mac benh.  
+
+Ten benh: Viem tuy  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc chong viem Ibuprofen, Thuoc giam dau Paracetamol, Thuoc co ban Thuoc cam giac am  
+   Loi khuyen: An thuc an de tieu hoa, tranh thuc an cay nong, su dung thuoc theo chi dinh.  
+
+Ten benh: Nhiem HIV  
+   Thuoc tri: Thuoc khang virus Tenofovir, Thuoc hieu hoa virus Lopinavir, Thuoc bo sung Vitamin C, Thuoc kiem soat virus Efavirenz  
+   Loi khuyen: Tranh tiep xuc voi nguoi mac benh, theo doi suc khoe dinh ky, uong thuoc kiem soat virus.  
+
+Ten benh: Quai do (rubella)  
+   Thuoc tri: Thuoc khang virus Ribavirin, Thuoc ha sot Paracetamol, Thuoc giam dau Ibuprofen, Thuoc bổ sung Vitamin C  
+   Loi khuyen: Nghi ngoi, uong nhieu nuoc, tranh tiep xuc voi nguoi khac de ngan ngua lay lan.  
+
+Ten benh: Thuy dau  
+   Thuoc tri: Thuoc chong viem Hydrocortisone, Thuoc giam ngua da Betamethasone, Thuoc bo sung Vitamin E, Thuoc giam viem Diclofenac  
+   Loi khuyen: Tranh gai, giu ve sinh da sach se, dung thuoc theo chi dinh cua bac si.  
+
+Ten benh: U xo tu cung  
+   Thuoc tri: Thuoc hormone Progesterone, Thuoc giam dau Ibuprofen, Thuoc kiem soat co tu cung, Thuoc chong viem Celecoxib  
+   Loi khuyen: Tham kham dinh ky, duy tri loi song lanh manh, tranh cang thang.  
+
+Ten benh: Mat ngu  
+   Thuoc tri: Thuoc an than Melatonin, Thuoc bo sung Vitamin B12, Thuoc giu tinh than Lucetam, Thuoc dieu tri troi bao Lacid  
+   Loi khuyen: Giu thoi quen ngu deu dan, tranh cang thang, tao moi truong ngu thoai mai.  
+
+Ten benh: Benh phong  
+   Thuoc tri: Thuoc khang sinh Penicillin, Thuoc chong viem Aspirin, Thuoc giam dau Paracetamol, Thuoc giu co xuong Calcium  
+   Loi khuyen: Giu ve sinh co the, tranh tiep xuc voi nguoi khac khi co dau hieu benh.  
+
+Ten benh: Viem loet mieng  
+   Thuoc tri: Thuoc giam dau Anbesol, Thuoc khang viem Hydrocortisone, Thuoc ngam Clorhexidine, Thuoc bo sung Vitamin C  
+   Loi khuyen: Tranh an do nong, cay, giu mieng sach, suc mieng bang nuoc muoi.  
+
+Ten benh: Suy giap tuyen giap  
+   Thuoc tri: Levothyroxine, Thuoc bo sung hormone, Thuoc giam viem Thyroid, Thuoc bo sung Vitamin D  
+   Loi khuyen: Theo doi dinh ky hormone giap, an uong lanh manh, tranh cang thang.  
+
+Ten benh: Viem bao quy dau  
+   Thuoc tri: Thuoc khang sinh Ceftriaxone, Thuoc chong viem Ketoconazole, Thuoc giam dau Ibuprofen, Thuoc bo sung Vitamin C  
+   Loi khuyen: Giu ve sinh sach se, tranh quan he tinh duc khong an toan, tham kham dinh ky.  
+
+Ten benh: Lao phoi keo dai  
+   Thuoc tri: Thuoc khang sinh Rifampicin, Thuoc giam ho Dextromethorphan, Thuoc khang viem Prednisolone, Thuoc bo sung Vitamin C  
+   Loi khuyen: Nghi ngoi, giu am co the, kiem tra phoi dinh ky.  
+
+Ten benh: Benh vong dai trang  
+   Thuoc tri: Thuoc chong tieu chay Loperamide, Thuoc bo sung dien giai Oresol, Thuoc giam viem Prednisolone, Thuoc giam dau Paracetamol  
+   Loi khuyen: Uong nhieu nuoc, an thuc pham de tieu hoa, tranh thuc pham song.  
+
+Ten benh: Viem mui ho hap  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc giam dau Ibuprofen, Thuoc long dom Acetylcysteine, Thuoc giam ho Dextromethorphan  
+   Loi khuyen: Nghi ngoi, giu am co hong, suc mieng voi nuoc muoi am.  
+
+Ten benh: Tieu duong thai ky  
+   Thuoc tri: Insulin, Thuoc ha duong huyet Metformin, Thuoc bo sung Vitamin D, Thuoc giam duong huyet Glibenclamide  
+   Loi khuyen: Kiem soat che do an uong, theo doi muc duong huyet, tranh thua can.  
+
+Ten benh: Bien chung tieu duong  
+   Thuoc tri: Thuoc ha duong huyet Glipizide, Thuoc dieu tri tang huyet ap Amlodipine, Thuoc giam duong huyet Metformin, Thuoc bo sung Vitamin C  
+   Loi khuyen: Theo doi huyet ap va duong huyet thuong xuyen, kiem soat can nang.  
+
+Ten benh: Hen phe quan  
+   Thuoc tri: Thuoc gian phe quan Salbutamol, Thuoc giam viem Prednisone, Thuoc khang histamin Loratadine, Thuoc chong di ung Cetirizine  
+   Loi khuyen: Tranh tiep xuc voi cac chat gay di ung, duy tri thuoc theo chi dinh bac si.  
+
+Ten benh: Voi hoa dot song  
+   Thuoc tri: Thuoc giam dau Ibuprofen, Thuoc giam ho Dextromethorphan, Thuoc chong viem Prednisolone, Thuoc bo sung Vitamin C  
+   Loi khuyen: Nghi ngoi, giu am co the, kiem tra chuc nang phoi dinh ky.  
+
+Ten benh: Benh vien nau  
+   Thuoc tri: Thuoc giam dau Paracetamol, Thuoc chong viem Celecoxib, Thuoc bo sung Vitamin C, Thuoc kiem soat tieu hoa  
+   Loi khuyen: Giu che do an lanh manh, theo doi chuc nang tieu hoa.  
+
+Ten benh: Viem ruot
+Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc giam dau Paracetamol, Thuoc chong viem Ibuprofen, Thuoc bo sung Vitamin C
+Loi khuyen: Giu ve sinh mieng sach se, tranh thuc an cay nong, suc mieng nuoc muoi.
+
+Ten benh: Viem da co
+Thuoc tri: Thuoc khang viem Hydrocortisone, Thuoc chong di ung Cetirizine, Thuoc bo sung Vitamin E, Thuoc giam ngua da Betamethasone
+Loi khuyen: Giu ve sinh da, tranh gai, su dung thuoc theo chi dinh bac si.
+
+Ten benh: Viem tay chan miu  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc giam dau Paracetamol, Thuoc bo sung Vitamin C, Thuoc chong di ung Loratadine  
+   Loi khuyen: Giu ve sinh tay chan sach se, tranh tiep xuc voi nguoi khac khi co trieu chung.  
+
+Ten benh: Viem gan A  
+   Thuoc tri: Thuoc chong viem gan A, Thuoc bo sung Vitamin D, Thuoc chong viem gan lam muc, Thuoc giam dau Paracetamol  
+   Loi khuyen: Tranh uong ruou bia, duy tri che do an uong lanh manh, tranh an do song.  
+
+Ten benh: Suy vanh hoa  
+   Thuoc tri: Thuoc bo sung Vitamin B12, Thuoc dieu tri roi loan giac ngu Melatonin, Thuoc giam dau Ibuprofen, Thuoc bo sung Folate  
+   Loi khuyen: Nghi ngoi day du, an uong du chat dinh duong, tranh cang thang qua muc.  
+
+Ten benh: Di ung  
+   Thuoc tri: Thuoc khang di ung Cetirizine, Thuoc giam ngua da Hydrocortisone, Thuoc bo sung Vitamin C, Thuoc chong di ung Diphenhydramine  
+   Loi khuyen: Tranh tiep xuc voi cac tac nhan gay di ung, su dung thuoc theo chi dinh cua bac si.  
+
+Ten benh: Doi loat huyet  
+   Thuoc tri: Thuoc kiem soat huyet ap Amlodipine, Thuoc dieu tri ro loan loai hinh huyet Clopidogrel, Thuoc giam dau Aspirin, Thuoc chong dong mach Warfarin  
+   Loi khuyen: Tham kham dinh ky, theo doi suc khoe, duy tri che do an uong lanh manh.  
+
+Ten benh: Viem dai trang  
+   Thuoc tri: Thuoc khang sinh Metronidazole, Thuoc giam viem Prednisolone, Thuoc bo sung Probiotic, Thuoc giam dau Paracetamol  
+   Loi khuyen: An thuc pham de tieu hoa, tranh an do cay nong, duy tri thoi quen ve sinh ca nhan sach se.  
+
+Ten benh: Binh co cung  
+   Thuoc tri: Thuoc giu co xuong Glucosamine, Thuoc giam dau Ibuprofen, Thuoc chong viem Celecoxib, Thuoc bo sung Vitamin D  
+   Loi khuyen: Nghi ngoi, tranh hoat dong manh, thuc hien bai tap keo gian co the.  
+
+Ten benh: Viem khop giai phau  
+   Thuoc tri: Thuoc giam dau Paracetamol, Thuoc khang viem Diclofenac, Thuoc bo sung Glucosamine, Thuoc giu co xuong Chondroitin  
+   Loi khuyen: Nghi ngoi, tranh mang vac vat nang, tap vat ly tri lieu.  
+
+Ten benh: Bieu hien ung thu  
+   Thuoc tri: Thuoc chong ung thu Chemotherapy, Thuoc giam dau Morphine, Thuoc bo sung Vitamin C, Thuoc giu co xuong Calcium  
+   Loi khuyen: Nghi ngoi, an thuc an bo sung dinh duong, dinh ky kiem tra.  
+
+Ten benh: Viem phoi nguyen hinh  
+   Thuoc tri: Thuoc khang sinh Amoxicillin, Thuoc giam dom Paracetamol, Thuoc giam ho Dextromethorphan, Thuoc long dom Acetylcysteine  
+   Loi khuyen: Nghi ngoi, uong nhieu nuoc, giu am co the.  
+
+Ten benh: Benh tim mach  
+   Thuoc tri: Thuoc ha huyet ap Lisinopril, Thuoc chong dong mach Aspirin, Thuoc giam dau Nitroglycerin, Thuoc kiem soat cholesterol Atorvastatin  
+   Loi khuyen: Nghi ngoi, tranh lo au, kiem tra suc khoe tim mach.  
+
+Ten benh: Cao huyet ap  
+   Thuoc tri: Thuoc ha huyet ap Amlodipine, Thuoc loi tieu Furosemide, Thuoc giam dau Paracetamol, Thuoc chong viem Aspirin  
+   Loi khuyen: Giam an muoi, tap the duc nhe nhang, kiem tra huyet ap thuong xuyen.  
+
+Ten benh: Loet da giai phau  
+   Thuoc tri: Thuoc chong viem Hydrocortisone, Thuoc giam dau Paracetamol, Thuoc bo sung Vitamin E, Thuoc bo sung Calcium  
+   Loi khuyen: Nghi ngoi, tranh mang vac vat nang, thuc hien bai tap gia tang co the.  
+
+Ten benh: Nhiem vi rut ruot  
+   Thuoc tri: Thuoc khang sinh Ciprofloxacin, Thuoc bo sung dien giai Oresol, Thuoc giam ho Dextromethorphan, Thuoc giam dau Paracetamol  
+   Loi khuyen: Uong nhieu nuoc, an thuc an de tieu hoa, tranh thuc an song.  
+
+Ten benh: Ung thu tien xuong  
+   Thuoc tri: Thuoc chong ung thu Methotrexate, Thuoc dieu tri ung thu Tamoxifen, Thuoc giam dau Morphine, Thuoc bo sung Vitamin D  
+   Loi khuyen: Nghi ngoi, an thuc an bo sung dinh duong, dinh ky kiem tra phoi.  
+
+Ten benh: Gan hieu trung  
+   Thuoc tri: Thuoc bo sung Vitamin B, Thuoc dieu tri gan, Thuoc chong viem gan, Thuoc giam dau Paracetamol  
+   Loi khuyen: Tranh ruou bia, giu che do an uong lanh manh, dinh ky kham gan.  
+
+Ten benh: Viem giap  
+   Thuoc tri: Thuoc hormone Levothyroxine, Thuoc bo sung Vitamin D, Thuoc chong viem Ibuprofen, Thuoc giu co xuong Calcium  
+   Loi khuyen: Theo doi dinh ky hormone giap, an uong lanh manh, tranh cang thang.  
+
+Ten benh: Lao am  
+   Thuoc tri: Thuoc khang sinh Rifampicin, Thuoc giam ho Dextromethorphan, Thuoc giam dau Paracetamol, Thuoc chong viem Aspirin  
+   Loi khuyen: Nghi ngoi, tranh cam lanh, giu am co the.  
+
+Ten benh: Doi loat  
+   Thuoc tri: Thuoc dieu tri, Thuoc bo sung vitamin C, Thuoc giam dau Ibuprofen, Thuoc bo sung Vitamin B12  
+   Loi khuyen: Nghi ngoi, tranh an cay nong, su dung thuoc theo chi dinh.  
+
+Ten benh: Benh lau  
+   Thuoc tri: Thuoc khang sinh Penicillin, Thuoc giam viem Hydrocortisone, Thuoc bo sung Vitamin C, Thuoc giam dau Paracetamol  
+   Loi khuyen: Giu ve sinh ca nhan, tranh tiep xuc voi nguoi khac khi co dau hieu benh.  
+
+Ten benh: Loet da song  
+   Thuoc tri: Thuoc bo sung Vitamin E, Thuoc giam viem Hydrocortisone, Thuoc giu co xuong Calcium, Thuoc giam dau Ibuprofen  
+   Loi khuyen: Nghi ngoi, tranh an cay nong, su dung kem duong da.  
+
+Ten benh: Viem da  
+   Thuoc tri: Thuoc khang viem, Thuoc chong di ung, Thuoc bo sung Vitamin E, Thuoc giam ngua da Loratadine  
+   Loi khuyen: Giu ve sinh da, tranh gai, su dung thuoc theo chi dinh bac si.

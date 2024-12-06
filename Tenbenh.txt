@@ -1,0 +1,622 @@
+Ten benh: Cam lanh
+   Trieu chung:
+   1. Chay nuoc mui
+   2. Ho
+   3. Dau hong
+   4. Sot nhe
+Ten benh: Camsot
+   Trieu chung:
+   1. Mieng kho
+   2. Met moi
+   3. Dau dau
+   4. Sot cao
+Ten benh: Viem phe quan
+   Trieu chung:
+   1. Ho khan
+   2. Tuc nguc
+   3. Tho kho khe
+   4. Met moi
+Ten benh: Dau da day
+   Trieu chung:
+   1. Dau bung
+   2. Day hoi
+   3. O nong
+   4. Met moi
+Ten benh: Tieu duong
+   Trieu chung:
+   1. Khat nuoc nhieu
+   2. Giam can nhanh
+   3. Nhanh moi
+   4. Vet thuong kho lanh
+Ten benh: Viem hong
+   Trieu chung:
+   1. Dau hong
+   2. Khac giong
+   3. Sot
+   4. Nuot dau
+Ten benh: Dau nho mat
+   Trieu chung:
+   1. Mo mat
+   2. Kich ung
+   3. Chay nuoc mat
+   4. Kho mat
+Ten benh: Suy gan
+   Trieu chung:
+   1. Vang da
+   2. Dau bung phai
+   3. Moi met
+   4. Giam can
+Ten benh: Suy than
+   Trieu chung:
+   1. Tieu nhieu ban dem
+   2. Phu tay chan
+   3. Dau lung
+   4. Moi met
+Ten benh: Viem phoi
+    Trieu chung:
+    1. Dau nguc
+    2. Ho ra mau
+    3. Sot cao
+    4. Kho tho
+Ten benh: Cao huyet ap
+    Trieu chung:
+    1. Dau dau
+    2. Hoa mat
+    3. Tho ngap
+    4. Mat ngu
+Ten benh: Thap khop
+    Trieu chung:
+    1. Dau khop
+    2. Sung khop
+    3. Kho di lai
+    4. Co cung
+Ten benh: Quai bi
+    Trieu chung:
+    1. Sung tuyen mang tai
+    2. Dau ha ham
+    3. Sot
+    4. Kho nuot
+Ten benh: Thieu mau
+    Trieu chung:
+    1. Da nhot nhat
+    2. Moi met
+    3. Hoi hop
+    4. Mat tap trung
+Ten benh: Suy tim
+    Trieu chung:
+    1. Tho kho
+    2. Phu tay chan
+    3. Moi met
+    4. Tuc nguc
+Ten benh: Tieu chay
+    Trieu chung:
+    1. Bung roi
+    2. Di ngoai nhieu lan
+    3. Mat nuoc
+    4. Co that
+Ten benh: Dau rang
+    Trieu chung:
+    1. Dau am i
+    2. Kho an
+    3. Nhay cam voi lanh nong
+    4. Chay mau chan rang
+Ten benh: Suy giap
+    Trieu chung:
+    1. Tang can
+    2. Da kho
+    3. Dau co
+    4. Cam lanh
+Ten benh: Cang thang
+    Trieu chung:
+    1. Mat ngu
+    2. Dau dau
+    3. Hoi hop
+    4. Met moi
+Ten benh: Viem bang quang
+    Trieu chung:
+    1. Dau khi di tieu
+    2. Tieu rat
+    3. Tieu it
+    4. Bung duoi dau
+Ten benh: Viem ruot thua
+    Trieu chung:
+    1. Dau bung duoi ben phai
+    2. Buon non
+    3. Sot
+    4. Mat ngon an
+Ten benh: Viem amidan
+    Trieu chung:
+    1. Dau hong
+    2. Sot cao
+    3. Nuot kho khan
+    4. Mui hoi
+Ten benh: Viem gan B
+    Trieu chung:
+    1. Da vang
+    2. Dau bung
+    3. Ngu buong
+    4. Moi met
+Ten benh: Hen suyen
+    Trieu chung:
+    1. Kho tho
+    2. Tuc nguc
+    3. Tho khe khe
+    4. Moi met
+Ten benh: Lao phoi
+    Trieu chung:
+    1. Ho ra mau
+    2. Sot dem
+    3. Giam can
+    4. Moi met
+Ten benh: Viem xoang
+    Trieu chung:
+    1. Dau dau
+    2. Nghet mui
+    3. Chay nuoc mui vang
+    4. Mat mui
+Ten benh: Viem khop dang thap
+    Trieu chung:
+    1. Dau nhuc khop
+    2. Sung khop
+    3. Mat linh hoat
+    4. Met moi
+Ten benh: Dau lung
+    Trieu chung:
+    1. Dau cang thang lung
+    2. Mat linh hoat
+    3. Day thoat vi dia dem
+    4. Kho cu dong
+Ten benh: Benh gout
+    Trieu chung:
+    1. Sung khop
+    2. Dau ngot khop
+    3. Do da
+    4. Moi met
+Ten benh: Dau tai
+    Trieu chung:
+    1. Dau trong tai
+    2. Khong nghe ro
+    3. Bung tay
+    4. Mui hoi
+Ten benh: Loet da day
+    Trieu chung:
+    1. Dau bung duoi
+    2. Chua bung
+    3. O nong
+    4. Tang met moi
+Ten benh: Phong
+    Trieu chung:
+    1. Sung loet da
+    2. Mat cam giac
+    3. Dau lan
+    4. Kho an ngu
+Ten benh: Mat ngu
+    Trieu chung:
+    1. Mat ngu keo dai
+    2. Met moi sang som
+    3. Dau dau
+    4. Lo au
+Ten benh: Dau co vai gay
+    Trieu chung:
+    1. Dau co cung
+    2. Mat linh hoat
+    3. Mat ngu
+    4. Moi met
+Ten benh: Dau bung kinh
+    Trieu chung:
+    1. Dau bung duoi
+    2. Met moi
+    3. Co bung
+    4. Mat ngon
+Ten benh: Rung toc
+    Trieu chung:
+    1. Toc rung nhieu
+    2. Dau kho
+    3. Tinh trang dau nhon
+    4. Mat thoi trang toc
+Ten benh: So gan
+    Trieu chung:
+    1. Da vang
+    2. Mat ngon an
+    3. Dau nguc phai
+    4. Mat ngon an
+Ten benh: Lao ruot
+    Trieu chung:
+    1. Ho keo dai
+    2. Kho xuong bung duoi
+    3. Buon non
+    4. Thieu mau
+Ten benh: Nhiem vi rut rota
+    Trieu chung:
+    1. Tieu chay
+    2. Mat nuoc
+    3. Buon non
+    4. Sot nhe
+Ten benh: Benh sot ret
+    Trieu chung:
+    1. Sot cao khi mua lanh
+    2. Dau dau
+    3. Mo hoi dem
+    4. Giam can nhanh
+Ten benh: Mat viem giac mac
+    Trieu chung:
+    1. Man do mat
+    2. To ra nhay mat
+    3. Dau mat cay
+    4. Giam mat thi luc
+Ten benh: Ho hen
+    Trieu chung:
+    1. Ho dai dang
+    2. Met moi khi ho
+    3. Sot
+    4. Moi met keo dai
+Ten benh: Viem ket mac
+    Trieu chung:
+    1. Chay nuoc mat
+    2. Di ung giac mac
+    3. Met moi
+    4. Dau nhuc nguyen cam
+Ten benh: Viem duong ho hap
+    Trieu chung:
+    1. Kho tho keo dai
+    2. Choi noi chuan
+    3. Boi roi tieu chay
+    4. Tre sot va dung so
+Ten benh: Dau nguc trai
+    Trieu chung:
+    1. Tuc man nguc
+    2. Buc bo khap ca
+    3. Ho xi hoang long
+    4. Dau dot so khi hoang ho
+Ten benh: Viem da dau
+    Trieu chung:
+    1. Da dau bi ton thuong
+    2. Rung toc
+    3. Kho da do mui mo hoi va dau hong
+    4. Loet vi
+Ten benh: Thieu mau do loet da day
+    Trieu chung:
+    1. Dau nghi huyet riet so vo moi
+    2. Lo o lai long khi
+    3. Mat met
+    4. Tieu chat vang kem huy
+Ten benh: Viem tuyen nuoc bot
+    Trieu chung:
+    1. Dau keo mac
+    2. Mot keo dai den cam
+    3. Loet chieu dem buoi rang
+    4. Mat huong nhieu so to cao
+Ten benh: Benh dau vai tot cap da lat
+    Trieu chung:
+    1. Ket moi bang vi
+    2. Dau ngoi cap hinh
+    3. Thoi gian sang gioi cao
+    4. Dau lai rang rung lai cua gion
+Ten benh: Sot cap do gan day
+    Trieu chung:
+    1. Mot doi sot ket lai chieu
+    2. Dau met dau duong cua thanh sang
+    3. Mat mo rang keo da dai
+    4. Rang dau vi keo dong thanh
+Ten benh: Viem nao
+   Trieu chung:
+   1. Dau dau nang
+   2. So anh sang
+   3. Co cung
+   4. Sot cao
+Ten benh: Ung thu gan
+   Trieu chung:
+   1. Vang da
+   2. Dau bung phai
+   3. Mat ngon an
+   4. Giam can nhanh
+Ten benh: Ung thu phoi
+   Trieu chung:
+   1. Ho dai dang
+   2. Dau nguc
+   3. Kho tho
+   4. Giam can nhanh
+Ten benh: Ung thu da day
+   Trieu chung:
+   1. Dau bung
+   2. Met moi
+   3. Chay mau
+   4. Giam can
+Ten benh: Viem dai trang
+   Trieu chung:
+   1. Dau bung
+   2. Tieu chay
+   3. Day hoi
+   4. Met moi
+Ten benh: Tieu buon
+   Trieu chung:
+   1. Tieu it
+   2. Tieu dau
+   3. Mat mau
+   4. Buot tieu
+Ten benh: Suy nhuoc co the
+   Trieu chung:
+   1. Met moi keo dai
+   2. Mat ngon an
+   3. Dau dau
+   4. Kho ngu
+Ten benh: Benh liem phoi
+   Trieu chung:
+   1. Dau nguc
+   2. Kho tho
+   3. Ho co dom
+   4. Moi met
+Ten benh: Viem tuy
+   Trieu chung:
+   1. Dau bung manh
+   2. Buon non
+   3. Mat ngon an
+   4. Sot cao
+Ten benh: Nhiem HIV
+   Trieu chung:
+   1. Sot cao
+   2. Phat ban
+   3. Noi hach
+   4. Giam mien dich
+Ten benh: Quai do (rubella)
+   Trieu chung:
+   1. Phat ban do
+   2. Sot cao
+   3. Dau hong
+   4. Sung tuyen nuoc bot
+Ten benh: Thuy dau
+   Trieu chung:
+   1. Noi mun nuoc
+   2. Sot nhe
+   3. Met moi
+   4. Ngua da
+Ten benh: U xo tu cung
+   Trieu chung:
+   1. Roi loan kinh nguyet
+   2. Dau bung
+   3. Mat mau nhieu
+   4. Met moi
+Ten benh: Mat ngu
+   Trieu chung:
+   1. Ngu gat ban ngay
+   2. Mat tap trung
+   3. Met moi
+   4. Dau dau
+Ten benh: Benh phong
+   Trieu chung:
+   1. Te lanh da
+   2. Roi loan cam giac
+   3. Suong khop cang cung
+   4. Loet da
+Ten benh: Viem loet mieng
+   Trieu chung:
+   1. Dau khi an
+   2. Vet loet trong mieng
+   3. Nuot kho
+   4. Sot
+Ten benh: Suy giap tuyen giap
+   Trieu chung:
+   1. Da kho
+   2. Tang can
+   3. Lanh chan tay
+   4. Mat tinh nhanh
+Ten benh: Viem bao quy dau
+   Trieu chung:
+   1. Ngua ngay
+   2. Mui hoi
+   3. Dau khi tieu
+   4. Sung do
+Ten benh: Lao phoi keo dai
+   Trieu chung:
+   1. Ho
+   2. Ho ra mau
+   3. Dau nguc
+   4. Sot cao dem
+Ten benh: Benh vong dai trang
+   Trieu chung:
+   1. Dau bung
+   2. Tieu chay nhieu lan
+   3. Day hoi bung
+   4. Kho tieu hoa
+Ten benh: Viem mui ho hap
+   Trieu chung:
+   1. Chay nuoc mui
+   2. Ho
+   3. Dau hong
+   4. Dau dau nhe
+Ten benh: Tieu duong thai ky
+   Trieu chung:
+   1. Khat nuoc nhieu
+   2. Tieu nhieu
+   3. Moi met
+   4. Tang can nhanh
+Ten benh: Bien chung tieu duong
+   Trieu chung:
+   1. Dau nguc kho
+   2. Moi met nhanh
+   3. Sot cao nhanh hon
+   4. Dau viem cuu phong
+Ten benh: Hen phe quan
+   Trieu chung:
+   1. Noi mun phong mat tre em
+   2. Toan than dau do met moi
+   3. Viem noi phong nghet ve co the hinh nguyet
+   4. Nguoi lanh ngua cap dot nhu cao keo theo
+Ten benh: Voi hoa dot song
+   Trieu chung:
+   1. Dau lung
+   2. Dai tang chan long keo
+   3. Moi mat moi khet man
+   4. Cong ngung cao keo theo dia
+Ten benh: Benh vien nau
+   Trieu chung:
+   1. Dau bung
+   2. Dia len
+   3. Bong rao cao ngoai cap keo dai
+   4. Tang len dau hoi song ma
+Ten benh: Viem ruot
+   Trieu chung:
+   1. Bop doi dau noi van cao
+   2. Chiu cap ma keo dai lam sang mot
+   3. Qua tang noi dong bo cai thoi noi cap man
+   4. Cong ngung khet cao cung len nguy hiem cap mat
+Ten benh: Viem da co
+   Trieu chung:
+   1. Ho nghet cung so bo ngay
+   2. Cao nhay keo dai nguy hiem day manh ho so noi
+   3. To cao len
+   4. Nam song ngoai cap keo dai tan met moi len ngay
+
+Ten benh: Viem tay chan miu  
+Trieu chung:  
+1. Chay mau  
+2. Tieu chay  
+3. Kho tay chan  
+4. Mui hoi  
+
+Ten benh: Viem gan A  
+Trieu chung:  
+1. Vang da  
+2. Met moi  
+3. Buon non  
+4. Giam can  
+
+Ten benh: Suy vanh hoa  
+Trieu chung:  
+1. Mat ngon an  
+2. So giac quan  
+3. Kho di lai  
+4. Choang vo lanh  
+
+Ten benh: Di ung  
+Trieu chung:  
+1. Phat ban  
+2. Ngua da  
+3. Dao lung  
+4. Mieng kho  
+
+Ten benh: Doi loat huyet  
+Trieu chung:  
+1. Giam can nhanh  
+2. Dao lung  
+3. Mat ngu  
+4. So trong vong 24h  
+
+Ten benh: Viem dai trang  
+Trieu chung:  
+1. Dau bung  
+2. Day hoi  
+3. Tieu chay  
+4. Met moi  
+
+Ten benh: Binh co cung  
+Trieu chung:  
+1. Dau co  
+2. Met moi  
+3. Tuoi nong  
+4. Kho nghe  
+
+Ten benh: Viem khop giai phau  
+Trieu chung:  
+1. Sung khop  
+2. Dau khop  
+3. Kho di lai  
+4. Mat linh hoat  
+
+Ten benh: Bieu hien ung thu  
+Trieu chung:  
+1. Giam can nhanh  
+2. Ho dai dang  
+3. Duong mat vang  
+4. Dau nguc  
+
+Ten benh: Viem phoi nguyen hinh  
+Trieu chung:  
+1. Ho dai dang  
+2. Ho ra mau  
+3. Tho kho  
+4. Ngat thoi gian  
+
+Ten benh: Benh tim mach  
+Trieu chung:  
+1. Tach mach  
+2. Ho  
+3. Chan tay sung  
+4. Kho tho  
+
+Ten benh: Cao huyet ap  
+Trieu chung:  
+1. Dau dau  
+2. Hoa mat  
+3. Lo au  
+4. Mệt moi  
+
+Ten benh: Loet da giai phau  
+Trieu chung:  
+1. Quai co  
+2. Tang can  
+3. Loet trong da  
+4. Kho di lai  
+
+Ten benh: Nhiem vi rut ruot  
+Trieu chung:  
+1. Met moi  
+2. Hoi nguc  
+3. Tieu chay  
+4. Ho dai dang  
+
+Ten benh: Ung thu tien xuong  
+Trieu chung:  
+1. Giam can nhanh  
+2. Sung khop  
+3. Dau nguc  
+4. Mat linh hoat  
+
+Ten benh: Gan hieu trung  
+Trieu chung:  
+1. Vang da  
+2. Buon non  
+3. Mat ngon an  
+4. Cam lanh  
+
+Ten benh: Viem giap  
+Trieu chung:  
+1. Dao luc  
+2. Giam can nhanh  
+3. Duong mat nhe  
+4. Hoi cho giam can  
+
+Ten benh: Lao am  
+Trieu chung:  
+1. Hoa hoang  
+2. Ho dai dang  
+3. Tieu chay  
+4. Rung tay chan  
+
+Ten benh: Doi loat  
+Trieu chung:  
+1. Met moi  
+2. Giam can nhanh  
+3. Lo au  
+4. Tan mat cung  
+
+Ten benh: Benh lau  
+Trieu chung:  
+1. Sung loet da  
+2. Ban khi  
+3. Met moi  
+4. Da bo  
+
+Ten benh: Loet da song  
+Trieu chung:  
+1. Ngay met  
+2. Giam can  
+3. Mat gia vi  
+4. Khu hieu chua chao  
+
+Ten benh: Viem da  
+Trieu chung:  
+1. Phat ban  
+2. Da do  
+3. Da trieu hoi  
+4. Sung khop
